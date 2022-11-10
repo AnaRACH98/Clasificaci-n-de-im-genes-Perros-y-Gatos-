@@ -1,14 +1,3 @@
-import os
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-
-
-import tensorflow
-from tensorflow import keras
-from keras.models import Sequential
-from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
-
 tensorflow==1.15.2
 keras==2.3.1
 imutils==0.5.3
